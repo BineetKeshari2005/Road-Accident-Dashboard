@@ -1,43 +1,43 @@
-# 🦠 COVID-19 Dashboard (India) – Tableau
+# 🚗 Road Accident Dashboard – Tableau
 
 ## 📊 Overview  
-This project presents an interactive **COVID-19 Dashboard** built using Tableau, analyzing the spread and impact of COVID-19 across India.  
+This project presents an interactive **Road Accident Dashboard** built using Tableau, analyzing accident trends and casualty distribution.  
 
-It provides insights into **cases, deaths, testing, vaccination progress, and demographic distribution**, helping users understand key trends during the pandemic.
+It provides insights into **accidents, casualties, vehicle types, road conditions, and geographical distribution**, helping identify key risk factors.
 
 ---
 
 ## 🔗 Live Dashboard  
-👉 https://public.tableau.com/app/profile/bineet.keshari/vizzes  
+👉 https://public.tableau.com/app/profile/bineet.keshari/vizzes
 
 ---
 
 ## 🎯 Objectives  
-- Track COVID-19 cases and deaths across states  
-- Analyze demographic distribution (age & gender)  
-- Evaluate vaccination progress  
-- Understand testing infrastructure across India  
-- Identify key trends during pandemic waves  
+- Analyze total accidents and casualties  
+- Track Year-over-Year (YoY) trends  
+- Identify high-risk factors (weather, road type, vehicle type)  
+- Visualize accident distribution geographically  
+- Generate insights for road safety improvement  
 
 ---
 
 ## 📌 Key Insights  
-- Maharashtra reported the highest number of cases and deaths  
-- Significant surge observed during 2021 (second wave)  
-- Majority of cases fall in the 20–39 age group  
-- Male population (~66%) affected more than female (~33%)  
-- Covishield was the most administered vaccine  
-- First dose vaccinations significantly higher than second dose  
+- Cars contribute to the highest number of casualties  
+- Most accidents occur in fine weather conditions  
+- Single carriageway roads are the most accident-prone  
+- Slight casualties form the majority of total cases  
+- Accident hotspots are concentrated in dense regions  
 
 ---
 
 ## 📈 Features  
-- State-wise COVID case and death visualization (map)  
-- Age group distribution analysis  
-- Gender-based case comparison  
-- State-wise testing analysis  
-- Vaccination insights (dose & vaccine type)  
-- ICMR testing lab distribution  
+- KPI cards showing total accidents and casualties with YoY change  
+- Monthly trend analysis  
+- Vehicle-wise casualty breakdown  
+- Weather condition analysis  
+- Road surface condition insights  
+- Road type comparison  
+- Geographical accident distribution (map)  
 
 ---
 
@@ -47,3 +47,4 @@ It provides insights into **cases, deaths, testing, vaccination progress, and de
 
 ---
 
+## 📂 Project Structure  
